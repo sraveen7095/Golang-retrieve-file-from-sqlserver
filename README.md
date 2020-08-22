@@ -1,0 +1,1 @@
+# Golang-retrieve-file-from-sqlserver
