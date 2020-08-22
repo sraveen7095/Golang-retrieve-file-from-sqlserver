@@ -41,14 +41,14 @@
 
 ```shell
 crypto/rand
-	database/sql
-	fmt
-	github.com/denisenkom/go-mssqldb
-	html/template
-	mime
-	net/http
-	os
-	strings
+database/sql
+fmt
+github.com/denisenkom/go-mssqldb
+html/template
+mime
+net/http
+os
+strings
 ```
 
 > now run your main file i.e, main.go
@@ -57,7 +57,7 @@ crypto/rand
 $ go run main.go
 ```
 ```shell
-In this , im retrieving filebytes from sqlserver and writing them to source file
+In this , im retrieving filebytes from sqlserver and writing them back to normal file
 ```
 
 
