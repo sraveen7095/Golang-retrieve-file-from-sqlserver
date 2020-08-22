@@ -5,13 +5,13 @@
 
 # Golang-retrieve-file-from-sqlserver
 
-> A Simple Web App which helps you to upload files to sqlserver using Golang 
+> A Simple Web App which helps you to Retrieve files from sqlserver using Golang 
 
 > With Goland Framework
 
 > Golang,Html
 
->file to bytes[]
+>bytes[] to file
 
 
 
